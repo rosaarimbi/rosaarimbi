@@ -51,3 +51,6 @@ I am a Full Stack Developer with 9+ years of experience in developing enterprise
 - 💻 db：![MongoDB](https://img.shields.io/badge/-MongoDB-blue?style=flat-circle&logo=MongoDB)![Oracle](https://img.shields.io/badge/-Oracle-red?style=flat-circle&logo=Oracle)![Mysql](https://img.shields.io/badge/-Mysql-white?style=flat-circle&logo=mysql)![Redis](https://img.shields.io/badge/-Redis-green?style=flat-circle&logo=Redis)
 
 - 🌱 learning：![Python](https://img.shields.io/badge/-Python-yellow?style=flat-circle&logo=Python)![php](https://img.shields.io/badge/-php-green?style=flat-circle&logo=php)![NodeJS](https://img.shields.io/badge/-NodeJS-green?style=flat-circle&logo=Nodejs)
+  
+  ![Rosaarimbi's GitHub stats](https://github-readme-stats.vercel.app/api/?username=rosaarimbi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
