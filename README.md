@@ -5,8 +5,6 @@
 <a href="https://www.linkedin.com/in/rosa-arimbi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkeid" height="30" width="40" /></a>
 
 ### ✨&nbsp; About Me
-
-I am a Full Stack Developer with 9+ years of experience in developing enterprise applications and open-source software.
   
 ![Rosa's github stats](https://github-readme-stats.vercel.app/api?username=rosaarimbi&show_icons=true&theme=dracula&hide=stars,issues)
   
