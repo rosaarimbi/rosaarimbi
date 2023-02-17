@@ -15,7 +15,7 @@
 
 - :hammer_and_wrench: use-tool：![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=VSCode)![NPM](https://img.shields.io/badge/-npm-gray?style=flat-circle&logo=npm)
 
-- ⚙️ om：![Git](https://img.shields.io/badge/-Git-yellow?style=flat-circle&logo=git)![GitLab](https://img.shields.io/badge/-GitLab-orange?style=flat-circle&logo=GitLab)![](https://img.shields.io/badge/-GitHub-blue?style=flat-circle&logo=GitHub)
+- ⚙️ om：![Git](https://img.shields.io/badge/-Git-yellow?style=flat-circle&logo=git)![GitLab](https://img.shields.io/badge/-GitLab-green?style=flat-circle&logo=GitLab)![](https://img.shields.io/badge/-GitHub-blue?style=flat-circle&logo=GitHub)
   
 - 💻 db：![Mysql](https://img.shields.io/badge/-Mysql-white?style=flat-circle&logo=mysql)
   
