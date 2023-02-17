@@ -11,7 +11,7 @@
 
 - 🔭 back-end：![php](https://img.shields.io/badge/-php-green?style=flat-circle&logo=php)![NodeJS](https://img.shields.io/badge/-NodeJS-red?style=flat-circle&logo=Nodejs)
 
-- 👯 front-end： ![JavaScript](https://img.shields.io/badge/-JavaScript-red?style=flat-circle&logo=javascript)![HTML5](https://img.shields.io/badge/-HTML5-purple?style=flat-circle&logo=html5)![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3)![VUE](https://img.shields.io/badge/-VUE-blue?style=flat-circle&logo=VUE)
+- 👯 front-end： ![JavaScript](https://img.shields.io/badge/-JavaScript-red?style=flat-circle&logo=javascript)![HTML5](https://img.shields.io/badge/-HTML5-purple?style=flat-circle&logo=html5)![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3)![VUE](https://img.shields.io/badge/-vuejs-blue?style=flat-circle&logo=vuejs)
 
 - :hammer_and_wrench: use-tool：![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=VSCode)![NPM](https://img.shields.io/badge/-npm-gray?style=flat-circle&logo=npm)
 
