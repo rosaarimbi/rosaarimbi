@@ -13,7 +13,7 @@
 
 - 👯 front-end： ![JavaScript](https://img.shields.io/badge/-JavaScript-red?style=flat-circle&logo=javascript)![HTML5](https://img.shields.io/badge/-HTML5-purple?style=flat-circle&logo=html5)![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3)![VUE](https://img.shields.io/badge/-VUE-blue?style=flat-circle&logo=VUE)
 
-- :hammer_and_wrench: use-tool：![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=VSCode)![VS Code](https://img.shields.io/badge/-npm-blue?style=flat-circle&logo=npm)
+- :hammer_and_wrench: use-tool：![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=VSCode)![NPM](https://img.shields.io/badge/-npm-gray?style=flat-circle&logo=npm)
 
 - ⚙️ om：![Git](https://img.shields.io/badge/-Git-yellow?style=flat-circle&logo=git)![GitLab](https://img.shields.io/badge/-GitLab-orange?style=flat-circle&logo=GitLab)![](https://img.shields.io/badge/-GitHub-blue?style=flat-circle&logo=GitHub)
   
