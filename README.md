@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-**rosaarimbi/rosaarimbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Nothing Private](https://github.com/gautamkrishnar/nothing-private) - This proof of concept project showcases the ability of any website to track and identify individuals, even when using private browsing or incognito mode in their web browser. With over 5000K users and 1.8K stars, it has garnered attention and discussions in privacy forums and conferences globally. Its impact has led to improvements from privacy-focused browser vendors to counter fingerprinting, and has increased public awareness of the dangers of browser fingerprinting.
+
+<--**rosaarimbi/rosaarimbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Here are some ideas to get you started:
 
