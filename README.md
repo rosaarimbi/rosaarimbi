@@ -11,10 +11,6 @@ This is the place where I opensource stuff and break things :rofl:
 <p align="left">
 <a href="https://www.linkedin.com/in/rosa-arimbi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkeid" height="30" width="40" /></a>
 
-📊 &nbsp;**This week I spent my time on**
-
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=rosaarimbi&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
-  
 ### ✨&nbsp; About Me
 
 I am a Full Stack Developer with 9+ years of experience in developing enterprise applications and open-source software.
