@@ -13,7 +13,7 @@
 
 - 👯 front-end： ![JavaScript](https://img.shields.io/badge/-JavaScript-red?style=flat-circle&logo=javascript)![HTML5](https://img.shields.io/badge/-HTML5-white?style=flat-circle&logo=html5)![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3)![ElectronJS](https://img.shields.io/badge/-ElectronJS-purple?style=flat-circle&logo=ElectrinJS)![ReactJs](https://img.shields.io/badge/-ReactJs-green?style=flat-circle&logo=ReactJs)![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-brown?style=flat-circle&logo=TailwindCSS)
 
-- :hammer_and_wrench: use-tool：![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=VSCode)![NPM](https://img.shields.io/badge/-npm-gray?style=flat-circle&logo=npm)
+- :hammer_and_wrench: use-tool：![VSCode](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=VSCode)![NPM](https://img.shields.io/badge/-npm-gray?style=flat-circle&logo=npm)
 
 - ⚙️ om：![Git](https://img.shields.io/badge/-Git-yellow?style=flat-circle&logo=git)![GitLab](https://img.shields.io/badge/-GitLab-green?style=flat-circle&logo=GitLab)![](https://img.shields.io/badge/-GitHub-blue?style=flat-circle&logo=GitHub)
   
