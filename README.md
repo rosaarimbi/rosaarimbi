@@ -9,7 +9,7 @@
 
 > skills
 
-- 🔭 back-end：![php](https://img.shields.io/badge/-php-green?style=flat-circle&logo=php)![NodeJS](https://img.shields.io/badge/-NodeJS-red?style=flat-circle&logo=nodejs)![ExpressJS](https://img.shields.io/badge/-ExpressJS-yellow?style=flat-circle&logo=ExpressJS)
+- 🔭 back-end：![php](https://img.shields.io/badge/-php-green?style=flat-circle&logo=php)![NodeJS](https://img.shields.io/badge/-NodeJS-red?style=flat-circle&logo=nodejs)![ExpressJS](https://img.shields.io/badge/-ExpressJS-yellow?style=flat-circle&logo=ExpressJS)![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-blue?style=flat-circle&logo=CodeIgniter)
 
 - 👯 front-end： ![JavaScript](https://img.shields.io/badge/-JavaScript-red?style=flat-circle&logo=javascript)![HTML5](https://img.shields.io/badge/-HTML5-white?style=flat-circle&logo=html5)![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3)![ElectronJS](https://img.shields.io/badge/-ElectronJS-purple?style=flat-circle&logo=ElectrinJS)![ReactJs](https://img.shields.io/badge/-ReactJs-brown?style=flat-circle&logo=ReactJs)![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-pink?style=flat-circle&logo=TailwindCSS)![SASS](https://img.shields.io/badge/-SASS-green?style=flat-circle&logo=SASS)
 
