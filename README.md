@@ -19,7 +19,7 @@
   
 - 💻 db：![Mysql](https://img.shields.io/badge/-Mysql-white?style=flat-circle&logo=mysql)
   
-- 🌱 learning：![Vuejs](https://img.shields.io/badge/-VueJS-yellow?style=flat-circle&logo=Vuejs)
+- 🌱 learning：![VueJS](https://img.shields.io/badge/-VueJS-yellow?style=flat-circle&logo=Vuejs), ![NuxtJS](https://img.shields.io/badge/-NuxtJs-green?style=flat-circle&logo=NuxtJS)
   
-  ![Rosaarimbi's GitHub stats](https://github-readme-stats.vercel.app/api/?username=rosaarimbi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<!--   ![Rosaarimbi's GitHub stats](https://github-readme-stats.vercel.app/api/?username=rosaarimbi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
 
